@@ -5,14 +5,21 @@ I Push and Pray almost everyday!
 <p>
   <img src="https://cdn.simpleicons.org/swift/F05138" height="22" alt="Swift">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/rust/CE422B" height="22" alt="Rust">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="22" alt="TypeScript">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="22" alt="JavaScript">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="22" alt="Lua">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="22" alt="React Native">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="22" alt="Node.js">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="22" alt="PostgreSQL">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="22" alt="AWS">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="22" alt="Docker">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apple/999999" height="22" alt="iOS">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="22" alt="Android">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="22" alt="Neovim">
 </p>
 
-> Building focused apps and tools for things I actually use.
-> Shipping on iOS, Android, and in your terminal.
+> End-to-end product builder — mobile, web, and backend.
+> React Native · Node.js · AWS · PostGIS · WebSockets · IAP · Swift · Rust.
 
 ## Current Projects
 
