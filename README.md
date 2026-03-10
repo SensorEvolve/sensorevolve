@@ -20,19 +20,19 @@ I Push and Pray almost everyday!
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="22" alt="Gemini">
 </p>
 
-> End-to-end product builder — mobile, web, and backend.
-> React Native · Node.js · AWS · PostGIS · WebSockets · IAP · Swift · Rust.
+>End-to-end product builder. I push to production daily.
+>Stack: Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · PostGIS · WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
 ## Current Projects
 
-- <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; [**TypeRun**](#) — CV, Letters & Invoices, docs to PDF *(pending App Store approval)*
-- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Superyacht Tracker**](https://apps.apple.com/us/app/superyacht-tracker/id6753971583) — The Ultimate Superyacht Tracker! Get live AIS data for a hand-picked fleet of 200+ iconic vessels.
-- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Arc Helper**](https://apps.apple.com/us/app/arc-helper/id6755163384) — companion app for the game Arc Raiders
-- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) — tarot card reading app
-- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Marathon Meta**](https://apps.apple.com/us/app/marathon-meta/id6759836429) — companion app for the game Marathon
-- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Kappa Speed Run**](https://apps.apple.com/us/app/kappa-speed-run-tarkov/id6756085483) — companion app for the game Escape from Tarkov
-- <img src="https://cdn.simpleicons.org/neovim/57A143" height="14">&nbsp; [**MacroVault.nvim**](https://github.com/SensorEvolve/macrovault.nvim) — persistent macro manager for Neovim
-- <img src="https://cdn.simpleicons.org/github/8b949e" height="14">&nbsp; [**Where Winds Meet**](https://github.com/SensorEvolve/where-winds-meet) — companion app for the game Where Winds Meet
-- <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **UnTag** — AirTag detection & privacy tool *(pending App Store approval)*
+- <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; [**TypeRun**](#) | CV, Letters & Invoices, docs to PDF *(pending App Store approval)*
+- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Superyacht Tracker**](https://apps.apple.com/us/app/superyacht-tracker/id6753971583) | The Ultimate Superyacht Tracker! Get live AIS data for a hand-picked fleet of 200+ iconic vessels.
+- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Arc Helper**](https://apps.apple.com/us/app/arc-helper/id6755163384) | companion app for the game Arc Raiders
+- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) | tarot card reading app
+- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Marathon Meta**](https://apps.apple.com/us/app/marathon-meta/id6759836429) | companion app for the game Marathon
+- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Kappa Speed Run**](https://apps.apple.com/us/app/kappa-speed-run-tarkov/id6756085483) | companion app for the game Escape from Tarkov
+- <img src="https://cdn.simpleicons.org/neovim/57A143" height="14">&nbsp; [**MacroVault.nvim**](https://github.com/SensorEvolve/macrovault.nvim) | persistent macro manager for Neovim
+- <img src="https://cdn.simpleicons.org/github/8b949e" height="14">&nbsp; [**Where Winds Meet**](https://github.com/SensorEvolve/where-winds-meet) | companion app for the game Where Winds Meet
+- <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **UnTag** | AirTag detection & privacy tool *(pending App Store approval)*
 - <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **Am I Safe** — personal safety companion app *(pending App Store approval)*
 - <img src="https://cdn.simpleicons.org/openai/8b949e" height="14">&nbsp; **Jarvis** — personal AI assistant *(pending App Store approval)*
