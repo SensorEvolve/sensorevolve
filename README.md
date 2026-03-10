@@ -1,6 +1,6 @@
-# Hi, I'm SensorEvolve
+# Hi, I'm Carlo
 
-indie dev &nbsp;·&nbsp; shipping apps &amp; tools
+I Push and Pray almost everyday!
 
 <p>
   <img src="https://cdn.simpleicons.org/swift/F05138" height="22" alt="Swift">&nbsp;&nbsp;
