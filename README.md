@@ -26,8 +26,8 @@ I Push and Pray almost everyday!
 ## Current Projects
 
 - <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; [**TypeRun**](#) — CV, Letters & Invoices, docs to PDF *(pending App Store approval)*
-- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Superyacht Tracker**](https://apps.apple.com/us/app/superyacht-tracker/id6753971583) — real-time superyacht AIS tracking
-- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Arc Helper**](https://apps.apple.com/us/app/arc-helper/id6755163384) — productivity tools for Arc browser
+- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Superyacht Tracker**](https://apps.apple.com/us/app/superyacht-tracker/id6753971583) — The Ultimate Superyacht Tracker! Get live AIS data for a hand-picked fleet of 200+ iconic vessels.
+- <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Arc Helper**](https://apps.apple.com/us/app/arc-helper/id6755163384) — companion app for the game Arc Raiders
 - <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) — tarot card reading app
 - <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Marathon Meta**](https://apps.apple.com/us/app/marathon-meta/id6759836429) — companion app for the game Marathon
 - <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Kappa Speed Run**](https://apps.apple.com/us/app/kappa-speed-run-tarkov/id6756085483) — companion app for the game Escape from Tarkov
