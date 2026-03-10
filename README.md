@@ -32,8 +32,7 @@ I Push and Pray almost everyday!
 - <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Marathon Meta**](https://apps.apple.com/us/app/marathon-meta/id6759836429) — companion app for the game Marathon
 - <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="14">&nbsp; [**Kappa Speed Run**](https://apps.apple.com/us/app/kappa-speed-run-tarkov/id6756085483) — companion app for the game Escape from Tarkov
 - <img src="https://cdn.simpleicons.org/neovim/57A143" height="14">&nbsp; [**MacroVault.nvim**](https://github.com/SensorEvolve/macrovault.nvim) — persistent macro manager for Neovim
-- <img src="https://cdn.simpleicons.org/github/8b949e" height="14">&nbsp; [**Where Winds Meet**](https://github.com/SensorEvolve/where-winds-meet) — game data repo for the wuxia RPG
-- <img src="https://cdn.simpleicons.org/github/8b949e" height="14">&nbsp; [**F1 Telemetry**](https://github.com/SensorEvolve/f1-telemetry) — F1 telemetry tooling
+- <img src="https://cdn.simpleicons.org/github/8b949e" height="14">&nbsp; [**Where Winds Meet**](https://github.com/SensorEvolve/where-winds-meet) — companion app for the game Where Winds Meet
 - <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **UnTag** — AirTag detection & privacy tool
 - <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **Am I Safe** — personal safety companion app
 - <img src="https://cdn.simpleicons.org/openai/8b949e" height="14">&nbsp; **Jarvis** — personal AI assistant
