@@ -20,7 +20,7 @@ I Push and Pray almost everyday!
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="22" alt="Gemini">
 </p>
 
-End-to-end product builder. I push to production daily.
+End-to-end product builder. I push to production daily.  
 Stack: Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · PostGIS  
 WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
