@@ -10,7 +10,7 @@ I Push and Pray almost everyday!
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="22" alt="Lua">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="22" alt="React Native">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="22" alt="Node.js">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="22" alt="PostgreSQL">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/336791" height="22" alt="PostgreSQL">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="22" alt="AWS">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="22" alt="Docker">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apple/999999" height="22" alt="iOS">&nbsp;&nbsp;
