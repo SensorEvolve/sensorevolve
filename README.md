@@ -10,7 +10,7 @@ I Push and Pray almost everyday!
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="22" alt="Lua">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="22" alt="React Native">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="22" alt="Node.js">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="22" alt="PostgreSQL">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/336791" height="22" alt="PostgreSQL">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="22" alt="AWS">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="22" alt="Docker">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apple/999999" height="22" alt="iOS">&nbsp;&nbsp;
@@ -36,4 +36,4 @@ WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 - <img src="https://cdn.simpleicons.org/github/8b949e" height="14">&nbsp; [**Where Winds Meet**](https://github.com/SensorEvolve/where-winds-meet) | companion app for the game Where Winds Meet
 - <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **UnTag** | AirTag detection & privacy tool *(pending App Store approval)*
 - <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **Am I Safe** — personal safety companion app *(pending App Store approval)*
-- <img src="https://cdn.simpleicons.org/openai/8b949e" height="14">&nbsp; **Jarvis** — personal AI assistant *(pending App Store approval)*
+<img src="https://cdn.simpleicons.org/openai/8b949e" height="14">&nbsp; **Jarvis** — personal AI assistant *(pending App Store approval)*
