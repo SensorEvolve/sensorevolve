@@ -24,6 +24,7 @@ Stack: Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · P
 WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
 Current Projects
+
 <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> Marathon Meta | Companion app for the game Marathon.
 
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> Superyacht Tracker | Live AIS data for a hand-picked fleet of 200+ iconic vessels.
