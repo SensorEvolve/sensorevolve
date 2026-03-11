@@ -23,25 +23,27 @@ End-to-end product builder. I push to production daily.
 Stack: Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · PostGIS  
 WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
-## Current Projects
-<img src="https://cdn.simpleicons.org/dart/0175C2" height="14">  TypeRun | CV, Letters & Invoices, docs to PDF (pending App Store approval)
+Current Projects
+<img src="https://cdn.simpleicons.org/swift/F05138" height="14"> Marathon Meta | Companion app for the game Marathon.
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="14">  Superyacht Tracker | The Ultimate Superyacht Tracker! Get live AIS data for a hand-picked fleet of 200+ iconic vessels.
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> Superyacht Tracker | Live AIS data for a hand-picked fleet of 200+ iconic vessels.
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="14">  Arc Helper | companion app for the game Arc Raiders
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> Arc Helper | Companion app for the game Arc Raiders.
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="14">  Tarot of Us | tarot card reading app
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> Kappa Speed Run | Companion app for the game Escape from Tarkov.
 
-<img src="https://cdn.simpleicons.org/swift/F05138" height="14">  Marathon Meta | companion app for the game Marathon
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> Tarot of Us | Tarot card reading app.
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="14">  Kappa Speed Run | companion app for the game Escape from Tarkov
+In Development / Pending Approval
+<img src="https://cdn.simpleicons.org/dart/0175C2" height="14"> TypeRun | CV, Letters & Invoices, docs to PDF.
 
-<img src="https://cdn.simpleicons.org/lua/2C2D72" height="14">  MacroVault.nvim | persistent macro manager for Neovim
+<img src="https://cdn.simpleicons.org/swift/F05138" height="14"> UnTag | AirTag detection & privacy tool.
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14">  WWM Helper | companion app for the game Where Winds Meet
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> Am I Safe | Personal safety companion app.
 
-<img src="https://cdn.simpleicons.org/swift/F05138" height="14">  UnTag | AirTag detection & privacy tool (pending App Store approval)
+<img src="https://cdn.simpleicons.org/swift/F05138" height="14"> Jarvis | Personal AI assistant.
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="14">  Am I Safe | personal safety companion app (pending App Store approval)
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> WWM Helper | Companion app for the game Where Winds Meet.
 
-<img src="https://cdn.simpleicons.org/swift/F05138" height="14">  Jarvis | personal AI assistant (pending App Store approval)
+Tools & Plugins
+<img src="https://cdn.simpleicons.org/lua/2C2D72" height="14"> MacroVault.nvim | Persistent macro manager for Neovim.
