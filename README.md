@@ -36,4 +36,4 @@ WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 - <img src="https://cdn.simpleicons.org/github/8b949e" height="14">&nbsp; [**Where Winds Meet**](https://github.com/SensorEvolve/where-winds-meet) | companion app for the game Where Winds Meet
 - <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **UnTag** | AirTag detection & privacy tool *(pending App Store approval)*
 - <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **Am I Safe** | personal safety companion app *(pending App Store approval)*
-- <img src="https://cdn.simpleicons.org/openai/8b949e" height="14">&nbsp; **Jarvis** | personal AI assistant *(pending App Store approval)*
+- <img src="https://cdn.simpleicons.org/apple/8b949e" height="14">&nbsp; **Jarvis** | personal AI assistant *(pending App Store approval)*
