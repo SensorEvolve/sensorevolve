@@ -34,7 +34,7 @@ WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
 <img src="https://cdn.simpleicons.org/swift/F05138" height="14">  Marathon Meta | companion app for the game Marathon
 
-<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/typescript/3178C6" height="14">  Kappa Speed Run | companion app for the game Escape from Tarkov
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="14">  Kappa Speed Run | companion app for the game Escape from Tarkov
 
 <img src="https://cdn.simpleicons.org/lua/2C2D72" height="14">  MacroVault.nvim | persistent macro manager for Neovim
 
