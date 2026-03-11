@@ -38,7 +38,7 @@ WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
 <img src="https://cdn.simpleicons.org/lua/2C2D72" height="14">  MacroVault.nvim | persistent macro manager for Neovim
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="14">  Where Winds Meet | companion app for the game Where Winds Meet
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14">  WWM Helper | companion app for the game Where Winds Meet
 
 <img src="https://cdn.simpleicons.org/swift/F05138" height="14">  UnTag | AirTag detection & privacy tool (pending App Store approval)
 
