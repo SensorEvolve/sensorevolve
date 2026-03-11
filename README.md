@@ -26,7 +26,7 @@ WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 ## Current Projects
 <img src="https://cdn.simpleicons.org/dart/0175C2" height="14">  TypeRun | CV, Letters & Invoices, docs to PDF (pending App Store approval)
 
-<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/javascript/F7DF1E" height="14">  Superyacht Tracker | The Ultimate Superyacht Tracker! Get live AIS data for a hand-picked fleet of 200+ iconic vessels.
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/react/61DAFB" height="14">  Superyacht Tracker | The Ultimate Superyacht Tracker! Get live AIS data for a hand-picked fleet of 200+ iconic vessels.
 
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="14">  Arc Helper | companion app for the game Arc Raiders
 
@@ -34,7 +34,7 @@ WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
 <img src="https://cdn.simpleicons.org/swift/F05138" height="14">  Marathon Meta | companion app for the game Marathon
 
-<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/swift/F05138" height="14">  Kappa Speed Run | companion app for the game Escape from Tarkov
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/typescript/3178C6" height="14">  Kappa Speed Run | companion app for the game Escape from Tarkov
 
 <img src="https://cdn.simpleicons.org/lua/2C2D72" height="14">  MacroVault.nvim | persistent macro manager for Neovim
 
