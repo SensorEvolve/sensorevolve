@@ -26,7 +26,7 @@ WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 ## Current Projects
 <img src="https://cdn.simpleicons.org/dart/0175C2" height="14">  TypeRun | CV, Letters & Invoices, docs to PDF (pending App Store approval)
 
-<img src="https://www.google.com/search?q=https://unpkg.com/simple-icons%40v11/icons/react.svg" width="14" height="14">  Superyacht Tracker | The Ultimate Superyacht Tracker! Get live AIS data for a hand-picked fleet of 200+ iconic vessels.
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="22" alt="React Native">&nbsp;&nbsp;>  Superyacht Tracker | The Ultimate Superyacht Tracker! Get live AIS data for a hand-picked fleet of 200+ iconic vessels.
 
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="14">  Arc Helper | companion app for the game Arc Raiders
 
