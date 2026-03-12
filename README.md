@@ -24,7 +24,7 @@ Stack: Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · P
 WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
 ### Current Projects
-* <img src="https://cdn.simpleicons.org/dart/0175C2" height="14"> **TypeRun** | CV, Letters & Invoices, docs to PDF.
+* <img src="https://cdn.simpleicons.org/dart/0175C2" height="14"> [**TypeRun**](https://apps.apple.com/us/app/typerun-docs-to-pdf/id6756442521) | CV, Letters & Invoices, docs to PDF.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> [**Marathon Meta**](https://apps.apple.com/us/app/marathon-meta/id6759836429) | Companion app for the game Marathon.
 * <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> [**Superyacht Tracker**](https://apps.apple.com/us/app/superyacht-tracker/id6753971583) | Live AIS data for a hand-picked fleet of 200+ iconic vessels.
 * <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> [**Arc Helper**](https://apps.apple.com/us/app/arc-helper/id6755163384) | Companion app for the game Arc Raiders.
