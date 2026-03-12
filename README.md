@@ -1,6 +1,6 @@
 # Hi, I'm Carl Johan
 
-I Push and Pray almost everyday!
+**I Push and Pray almost everyday!**
 
 <p>
   <img src="https://cdn.simpleicons.org/swift/F05138" height="22" alt="Swift">&nbsp;&nbsp;
