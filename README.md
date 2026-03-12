@@ -19,11 +19,12 @@ I Push and Pray almost everyday!
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="22" alt="Gemini">
 </p>
 
-End-to-end product builder. I push to production daily.  
-Stack: Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · PostGIS  
+End-to-end product builder. I push to production daily.
+Stack: Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · PostGIS
 WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
 ### Current Projects
+* <img src="https://cdn.simpleicons.org/dart/0175C2" height="14"> **TypeRun** | CV, Letters & Invoices, docs to PDF.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> [**Marathon Meta**](https://apps.apple.com/us/app/marathon-meta/id6759836429) | Companion app for the game Marathon.
 * <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> [**Superyacht Tracker**](https://apps.apple.com/us/app/superyacht-tracker/id6753971583) | Live AIS data for a hand-picked fleet of 200+ iconic vessels.
 * <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> [**Arc Helper**](https://apps.apple.com/us/app/arc-helper/id6755163384) | Companion app for the game Arc Raiders.
@@ -31,7 +32,6 @@ WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 * <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) | Tarot card reading app.
 
 ### In Development / Pending Approval
-* <img src="https://cdn.simpleicons.org/dart/0175C2" height="14"> **TypeRun** | CV, Letters & Invoices, docs to PDF.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **UnTag** | AirTag detection & privacy tool.
 * <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> **Am I Safe** | Personal safety companion app.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Jarvis** | Personal AI assistant.
