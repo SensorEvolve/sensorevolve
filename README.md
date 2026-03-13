@@ -39,3 +39,5 @@ WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
 ### Tools & Plugins
 * <img src="https://cdn.simpleicons.org/lua/2C2D72" height="14"> **MacroVault.nvim** > Persistent macro manager for Neovim.
+* <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Vague2k**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.vague2k) > Vague2k Neovim theme to Visual Studio Code.
+* <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Raven Rosé Pine**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.raven-rosepine-dark) > A darker variant of Rosé Pine for Visual Studio Code.
