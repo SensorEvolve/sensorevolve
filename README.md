@@ -20,7 +20,7 @@
 </p>
 
 End-to-end product builder. I push to production daily.
-Stack: Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · PostGIS
+Stack: Go · Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · PostGIS
 WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
 
 ### Current Projects
