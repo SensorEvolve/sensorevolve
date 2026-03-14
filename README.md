@@ -20,10 +20,10 @@
 </p>
 
 🛠️ Tech Stack  
-Languages: Go Rust Swift C++ TypeScript Python Dart  
-Backend & Infra: Node.js AWS PostGIS WebSockets  
-Graphics & Mobile: React Native GDScript GLSL  
-AI Orchestration: Claude Gemini
+Languages: Go, Rust, Swift, C++, TypeScript, Python, Dart  
+Backend & Infra: Node.js, AWS, PostGIS, WebSockets  
+Graphics & Mobile: React Native, GDScript, GLSL  
+AI Orchestration: Claude, Gemini  
 🚀 Pushing to production daily.
 
 ### Current Projects
