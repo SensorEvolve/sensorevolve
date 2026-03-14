@@ -19,9 +19,12 @@
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="22" alt="Gemini">
 </p>
 
-End-to-end product builder. I push to production daily.
-Stack: Go · Rust · Swift · C++ · TypeScript · Node.js · React Native · AWS · PostGIS
-WebSockets · Dart · Python · GLSL · GDScript · Claude · Gemini
+🛠️ Tech Stack
+Languages: Go Rust Swift C++ TypeScript Python Dart
+Backend & Infra: Node.js AWS PostGIS WebSockets
+Graphics & Mobile: React Native GDScript GLSL
+AI Orchestration: Claude Gemini
+🚀 Pushing to production daily.
 
 ### Current Projects
 * <img src="https://cdn.simpleicons.org/dart/0175C2" height="14"> [**TypeRun**](https://apps.apple.com/us/app/typerun-docs-to-pdf/id6756442521) > CV, Letters & Invoices, docs to PDF.
