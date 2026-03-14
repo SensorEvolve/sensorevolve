@@ -19,10 +19,10 @@
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="22" alt="Gemini">
 </p>
 
-🛠️ Tech Stack
-Languages: Go Rust Swift C++ TypeScript Python Dart
-Backend & Infra: Node.js AWS PostGIS WebSockets
-Graphics & Mobile: React Native GDScript GLSL
+🛠️ Tech Stack  
+Languages: Go Rust Swift C++ TypeScript Python Dart  
+Backend & Infra: Node.js AWS PostGIS WebSockets  
+Graphics & Mobile: React Native GDScript GLSL  
 AI Orchestration: Claude Gemini
 🚀 Pushing to production daily.
 
