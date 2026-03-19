@@ -20,20 +20,20 @@
 </p>
 
 ### Current Projects
-* <img src="https://cdn.simpleicons.org/dart/0175C2" height="14"> [**TypeRun**](https://apps.apple.com/us/app/typerun-docs-to-pdf/id6756442521) > CV, Letters & Invoices, docs to PDF.
-* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> [**Marathon Meta**](https://apps.apple.com/us/app/marathon-meta/id6759836429) > Companion app for the game Marathon.
-* <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> [**Superyacht Tracker**](https://apps.apple.com/us/app/superyacht-tracker/id6753971583) > Live AIS data for a hand-picked fleet of 200+ iconic vessels.
-* <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> [**Arc Helper**](https://apps.apple.com/us/app/arc-helper/id6755163384) > Companion app for the game Arc Raiders.
-* <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Kappa Speed Run**](https://apps.apple.com/us/app/kappa-speed-run-tarkov/id6756085483) > Companion app for the game Escape from Tarkov.
-* <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) > Tarot card reading app.
+* <img src="https://cdn.simpleicons.org/dart/0175C2" height="14"> [**TypeRun**](https://apps.apple.com/us/app/typerun-docs-to-pdf/id6756442521) | Iphone app for Typst beauty CV, Letters & Invoices > PDF.
+* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> [**Marathon Meta**](https://apps.apple.com/us/app/marathon-meta/id6759836429) | Companion app for the game Marathon.
+* <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> [**Superyacht Tracker**](https://apps.apple.com/us/app/superyacht-tracker/id6753971583) | Live AIS data for a hand-picked fleet of 200+ iconic vessels.
+* <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> [**Arc Helper**](https://apps.apple.com/us/app/arc-helper/id6755163384) | Companion app for the game Arc Raiders.
+* <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Kappa Speed Run**](https://apps.apple.com/us/app/kappa-speed-run-tarkov/id6756085483) | Companion app for the game Escape from Tarkov.
+* <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) | Tarot card reading app.
 
 ### In Development / Pending Approval
-* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **UnTag** > AirTag detection & privacy tool.
-* <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> **Am I Safe** > Personal safety companion app.
-* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Jarvis** > Personal AI assistant.
-* <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> **WWM Helper** > Companion app for the game Where Winds Meet.
+* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **UnTag** | AirTag detection & privacy tool.
+* <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> **Am I Safe** | Personal safety companion app.
+* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Jarvis** | Personal AI assistant.
+* <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> **WWM Helper** | Companion app for the game Where Winds Meet.
 
 ### Tools & Plugins
-* <img src="https://cdn.simpleicons.org/lua/2C2D72" height="14"> **MacroVault.nvim** > Persistent macro manager for Neovim.
-* <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Vague2k**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.vague2k) > Vague2k Neovim theme to Visual Studio Code.
-* <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Raven Rosé Pine**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.raven-rosepine-dark) > A darker variant of Rosé Pine for Visual Studio Code.
+* <img src="https://cdn.simpleicons.org/lua/2C2D72" height="14"> **MacroVault.nvim** | Persistent macro manager for Neovim.
+* <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Vague2k**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.vague2k) | Vague2k Neovim theme to Visual Studio Code.
+* <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Raven Rosé Pine**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.raven-rosepine-dark) | A darker variant of Rosé Pine for Visual Studio Code.
