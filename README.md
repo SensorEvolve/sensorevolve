@@ -28,6 +28,7 @@
 * <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) | Tarot card reading app.
 
 ### In Development / Pending Approval
+* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Ready Player Cast** | Cast them to any Smart TV in the room.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **UnTag** | AirTag detection & privacy tool.
 * <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> **Am I Safe** | Personal safety companion app.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Jarvis** | Personal AI assistant.
