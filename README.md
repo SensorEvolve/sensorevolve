@@ -28,6 +28,7 @@
 * <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) | Tarot card reading app.
 
 ### In Development / Pending Approval
+* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> Protech-T is a secure operating system running inside iOS.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Ready Player Cast** | One app that works with every TV protocol without needing Plex, Infuse, or a NAS.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **UnTag** | AirTag detection & privacy tool.
 * <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> **Am I Safe** | Personal safety companion app.
@@ -35,6 +36,6 @@
 * <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> **WWM Helper** | Companion app for the game Where Winds Meet.
 
 ### Tools & Plugins
-* <img src="https://cdn.simpleicons.org/lua/2C2D72" height="14"> **MacroVault.nvim** | Persistent macro manager for Neovim.
+* <img src="https://cdn.simpleicons.org/lua/2C2D72" height="14"> [**MacroVault.nvim**](https://github.com/SensorEvolve/macrovault.nvim.git) | Persistent macro manager for Neovim.
 * <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Vague2k**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.vague2k) | Vague2k Neovim theme to Visual Studio Code.
 * <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Raven Rosé Pine**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.raven-rosepine-dark) | A darker variant of Rosé Pine for Visual Studio Code.
