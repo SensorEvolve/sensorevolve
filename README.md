@@ -28,6 +28,7 @@
 * <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) | Tarot card reading app.
 
 ### In Development / Pending Approval
+* <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> **AI Lookbook** | A lookbook for clothing powered by AI. 
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> Protech-T is a secure operating system running inside iOS.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Ready Player Cast** | One app that works with every TV protocol without needing Plex, Infuse, or a NAS.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **UnTag** | AirTag detection & privacy tool.
