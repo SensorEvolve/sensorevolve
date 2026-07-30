@@ -26,15 +26,15 @@
 * <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> [**Arc Helper**](https://apps.apple.com/us/app/arc-helper/id6755163384) | Companion app for the game Arc Raiders.
 * <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Kappa Speed Run**](https://apps.apple.com/us/app/kappa-speed-run-tarkov/id6756085483) | Companion app for the game Escape from Tarkov.
 * <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Tarot of Us**](https://apps.apple.com/us/app/tarot-of-us/id6754226030) | Tarot card reading app.
+* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> [**Castor**](https://apps.apple.com/us/app/castor-cast-to-any-tv/id6762050975) | Cast to any TV protocol without needing Plex or Infuse.
+* <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> [**Am I Safe**](https://apps.apple.com/us/app/am-i-safe-app/id6757954091) | Personal safety companion app.
 
 ### In Development / Pending Approval
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Covershot** | Visual directing for AI image generation — no prompt box needed.
 * <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"> **Real Estate App** | A refined social real estate app. 
 * <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> **AI Lookbook** | A lookbook for clothing powered by AI. 
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Protech-T** | A secure operating system running inside iOS.
-* <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Ready Player Cast** | One app that works with every TV protocol without needing Plex or Infuse.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **UnTag** | AirTag detection & privacy tool.
-* <img src="https://cdn.simpleicons.org/typescript/3178C6" height="14"> **Am I Safe** | Personal safety companion app.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Greed Is Good** | Track the portfolios and trades of famous investors.
 * <img src="https://cdn.simpleicons.org/swift/F05138" height="14"> **Jarvis** | Personal AI assistant.
 * <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> **WWM Helper** | Companion app for the game Where Winds Meet.
