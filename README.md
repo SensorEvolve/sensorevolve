@@ -1,7 +1,7 @@
 # Hi, I'm Carl Johan
 
 **Push and Pray everyday!**
-
+<!--
 <p>
   <img src="https://cdn.simpleicons.org/swift/F05138" height="22" alt="Swift">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/rust/CE422B" height="22" alt="Rust">&nbsp;&nbsp;
@@ -43,3 +43,4 @@
 * <img src="https://cdn.simpleicons.org/lua/2C2D72" height="14"> [**MacroVault.nvim**](https://github.com/SensorEvolve/macrovault.nvim.git) | Persistent macro manager for Neovim.
 * <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Vague2k**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.vague2k) | Vague2k Neovim theme to Visual Studio Code.
 * <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14"> [**Raven Rosé Pine**](https://marketplace.visualstudio.com/items?itemName=SensorEvolve.raven-rosepine-dark) | A darker variant of Rosé Pine for Visual Studio Code.
+-->
